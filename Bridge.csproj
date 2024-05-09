@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+	<RuntimeIdentifiers>win-x64;linux-x64;osx.10.14-x64</RuntimeIdentifiers>
+	<PublishSingleFile>true</PublishSingleFile>
+    <RootNamespace>Bridge</RootNamespace>
+    <AssemblyName>Bridge</AssemblyName>
+  </PropertyGroup>
+
+</Project>
